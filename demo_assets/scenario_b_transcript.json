@@ -1,0 +1,44 @@
+[
+  {
+    "speaker": "Speaker 0",
+    "start": 0.0,
+    "end": 2.8,
+    "text": "Hello sir, aapka complaint number kya hai?"
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 3.2,
+    "end": 7.2,
+    "text": "Naan ticket number TK-4821 solluven. Three days aachu, no response."
+  },
+  {
+    "speaker": "Speaker 0",
+    "start": 7.6,
+    "end": 11.6,
+    "text": "Ji, TK-4821 dekh raha hoon. Yeh escalation queue mein hai."
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 12.0,
+    "end": 15.6,
+    "text": "Enna da idu! Moonu naal aayiduchu. Manager kitta pesanum."
+  },
+  {
+    "speaker": "Speaker 0",
+    "start": 16.0,
+    "end": 20.0,
+    "text": "Bilkul, main abhi manager ko transfer karti hoon. Hold kijiye."
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 20.4,
+    "end": 25.2,
+    "text": "Okay, but please make sure they call me back within the hour."
+  },
+  {
+    "speaker": "Speaker 0",
+    "start": 25.6,
+    "end": 30.0,
+    "text": "Confirmed. Ek ghante mein callback guarantee hai. Sorry for the inconvenience."
+  }
+]

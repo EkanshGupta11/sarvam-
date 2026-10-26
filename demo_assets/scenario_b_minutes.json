@@ -1,0 +1,40 @@
+{
+  "executive_summary": "A customer (Speaker 1) contacted support regarding an unresolved complaint ticket TK-4821, open for three days. The support agent (Speaker 0) acknowledged the delay, confirmed the ticket is in the escalation queue, and committed to a manager callback within one hour.",
+  "speaker_key_points": {
+    "Speaker 0": [
+      "Identified ticket TK-4821 in the escalation queue",
+      "Apologised for the 3-day delay",
+      "Committed to transferring the call to a manager",
+      "Guaranteed a callback within one hour"
+    ],
+    "Speaker 1": [
+      "Raised complaint TK-4821 with no response for three days",
+      "Demanded to speak with a manager",
+      "Requested a callback within the hour"
+    ]
+  },
+  "decisions": [
+    {
+      "decision": "Escalate ticket TK-4821 to manager",
+      "by": "Speaker 0",
+      "context": "Customer has been waiting three days without a response"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Manager callback to customer",
+      "owner": "Speaker 0",
+      "deadline": "Within 1 hour"
+    },
+    {
+      "action": "Resolve ticket TK-4821",
+      "owner": "Speaker 0",
+      "deadline": "TBD"
+    },
+    {
+      "action": "Review escalation queue SLA adherence",
+      "owner": "Speaker 0",
+      "deadline": "TBD"
+    }
+  ]
+}

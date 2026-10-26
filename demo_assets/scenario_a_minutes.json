@@ -1,0 +1,50 @@
+{
+  "executive_summary": "The team held a quick standup covering the status of the feature branch PR, a JWT expiry blocker in the auth module, a 3 PM sync meeting, and a staging pipeline fix expected to go green by EOD.",
+  "speaker_key_points": {
+    "Speaker 0": [
+      "Requested standup and asked about the day's plan",
+      "Enquired about blockers on the auth module",
+      "Scheduled a 3 PM sync with the backend team",
+      "Confirmed DevOps has pushed a fix for the staging pipeline (green by EOD)"
+    ],
+    "Speaker 1": [
+      "PR for the feature branch is ready to merge",
+      "JWT expiry logic in auth module needs review — will take more time",
+      "Will start testing post-lunch once pipeline is green"
+    ]
+  },
+  "decisions": [
+    {
+      "decision": "3 PM sync meeting to review JWT expiry logic",
+      "by": "Speaker 0",
+      "context": "Backend team to be looped in"
+    },
+    {
+      "decision": "Deploy pipeline fix expected to be green by EOD",
+      "by": "Speaker 0",
+      "context": "DevOps has already pushed the fix"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Merge feature branch PR",
+      "owner": "Speaker 1",
+      "deadline": "Today"
+    },
+    {
+      "action": "Review JWT expiry logic",
+      "owner": "Speaker 0",
+      "deadline": "3 PM today"
+    },
+    {
+      "action": "Confirm staging pipeline is green",
+      "owner": "Speaker 0",
+      "deadline": "EOD"
+    },
+    {
+      "action": "Start post-pipeline testing",
+      "owner": "Speaker 1",
+      "deadline": "Post-lunch"
+    }
+  ]
+}

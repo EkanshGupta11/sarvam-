@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "Speaker 0",
+    "start": 0.0,
+    "end": 4.4,
+    "text": "Okay team, let's do a quick standup. Aaj kya plan hai?"
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 4.8,
+    "end": 10.0,
+    "text": "Main kal wali feature branch merge kar raha hoon — PR is ready."
+  },
+  {
+    "speaker": "Speaker 0",
+    "start": 10.4,
+    "end": 13.2,
+    "text": "Nice! Any blockers on the auth module?"
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 13.6,
+    "end": 18.8,
+    "text": "Ek issue hai — the JWT expiry logic needs review. Thoda time lagega."
+  },
+  {
+    "speaker": "Speaker 0",
+    "start": 19.2,
+    "end": 24.0,
+    "text": "Okay, let's sync at 3 PM. I'll loop in the backend team."
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 24.4,
+    "end": 28.4,
+    "text": "Sure. Aur deployment pipeline ka kya? Still failing on staging?"
+  },
+  {
+    "speaker": "Speaker 0",
+    "start": 28.8,
+    "end": 34.0,
+    "text": "Haan, DevOps ne fix push kiya hai — should be green by EOD."
+  },
+  {
+    "speaker": "Speaker 1",
+    "start": 34.4,
+    "end": 37.6,
+    "text": "Perfect. Main testing start kar deta hoon post-lunch."
+  }
+]

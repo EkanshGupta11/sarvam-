@@ -1,0 +1,22 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+myenv/
+winenv/
+ENV/
+env/
+
+# Test audio / recordings (optional, exclude large test files)
+*.wav
+!demo_assets/*.wav
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,26 @@
+# Sarvam ConvoMatrix — pinned Python dependencies
+# Generated: 2026-10-26
+# Install with: pip install -r requirements.txt
+
+# Core Sarvam AI SDK
+sarvamai==0.1.39
+
+# Environment variable management
+python-dotenv==1.2.4
+
+# Streamlit web framework (>= 1.33 for st.audio_input mic support)
+streamlit==1.66.1
+
+# Audio I/O — WAV read/write without system codecs
+soundfile==0.14.0
+
+# Numerical computing (required by soundfile and audio processing)
+numpy==2.5.4
+
+# Audio format conversion (MP3, OGG, M4A -> WAV pre-processing)
+# Note: also requires FFmpeg on PATH for non-WAV format support.
+# Install FFmpeg: https://ffmpeg.org/download.html
+pydub>=0.25.1
+
+# Data display in Streamlit minutes tab
+pandas>=2.0.0
